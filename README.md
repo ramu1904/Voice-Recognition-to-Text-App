@@ -1,14 +1,14 @@
-## Voice to Text using Voice Recognition - Website
+# Voice to Text using Voice Recognition - Website
 
 This Voice Recognition App is built using HTML CSS and Javascript.
 It utilizes the Web Speech API to convert speech to text.Users can start or stop voice recognition by clicking a button. 
 Recognized speech is displayed in a chat-like interface.The user can also copy the text messages to the clipboard and clear the chat window.
 
-# Tech Stack
+## Tech Stack
 
-** HTML
-** CSS
-** JS
+1. HTML
+2. CSS
+3. JS
 
 ## screenshot of this website
 
